@@ -7,7 +7,7 @@ Note: For an offline version please refer to the original source code.
 
 ## Installation
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Software Dependencies
 
